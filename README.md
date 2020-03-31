@@ -1,5 +1,10 @@
 # HanddiiBackend
 
+Requirements:
+
+  * Elixir 1.9.4
+  * Node 12.16.1
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
