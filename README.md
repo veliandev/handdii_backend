@@ -8,6 +8,7 @@ Requirements:
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
+    * If prompted to install Hex, agree to the installation with `y`.
   * Install Node.js dependencies with `npm install`
   * Start Phoenix endpoint with `mix phoenix.server`
 
