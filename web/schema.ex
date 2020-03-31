@@ -6,7 +6,7 @@ defmodule HanddiiBackend.Schema do
     query do
 
         field :locations, list_of(:location) do
-            resolve &Resolvers.Content.list_locations/3
+            resolve &HanddiiBackend.Resolvers.Content.list_locations/3
         end
 
     end
