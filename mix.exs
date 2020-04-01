@@ -41,7 +41,8 @@ defmodule HanddiiBackend.Mixfile do
      {:cowboy, "~> 1.0"},
      {:absinthe, "~> 1.4"},
      {:absinthe_plug, "~> 1.4"},
-     {:jason, "~> 1.2"}]
+     {:jason, "~> 1.2"},
+     {:cors_plug, "~> 2.0"}]
   end
 
   # Aliases are shortcuts or tasks specific to the current project.
