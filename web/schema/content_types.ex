@@ -6,4 +6,5 @@ defmodule HanddiiBackend.Schema.ContentTypes do
         field :longitude, :float
         field :latitude, :float
     end
+
 end
